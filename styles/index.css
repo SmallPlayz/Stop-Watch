@@ -59,3 +59,7 @@ body {
   cursor: not-allowed;
   opacity: 1;
 }
+.GithubLink {
+    position: absolute;
+    bottom: 5px;
+}
